@@ -19,8 +19,8 @@ For more detailed rules, visit: https://bicyclecards.com/how-to-play/blackjack
  - Card Representation: Mechanisms for representing card names and values.
 
 # Part 2: Player and Dealer
- -Player Logic: Implementation of user gameplay, allowing players to hit or stand.
- -Dealer Logic: Automated dealer behavior following Blackjack rules.
+ - Player Logic: Implementation of user gameplay, allowing players to hit or stand.
+ - Dealer Logic: Automated dealer behavior following Blackjack rules.
 
 # Part 3: Betting system
  - Wagering Mechanism: System for players to place bets before the game begins.
@@ -41,7 +41,7 @@ For more detailed rules, visit: https://bicyclecards.com/how-to-play/blackjack
 
 # Part 7: Testing features
 - Comprehensive tests for individual components of the game.
--  Tests to ensure all parts work together seamlessly.
+- Tests to ensure all parts work together seamlessly.
 
 # Installation:
  - Ensure you have Python installed on your system. Clone this repository and run the game using the instructions above.
