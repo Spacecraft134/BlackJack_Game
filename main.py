@@ -1,9 +1,8 @@
-import dealer
-from dealer import Dealer
-from deck import Deck
-from player import Player
-from betting_system import Betting
-from display import GameDisplay
+from game_files.dealer import Dealer
+from game_files.deck import Deck
+from game_files.player import Player
+from game_files.betting_system import Betting
+from game_files.display import GameDisplay
 display_logo = GameDisplay()
 display_logo.logo()
 class Main:

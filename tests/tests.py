@@ -1,4 +1,4 @@
-from card import Card
+from game_files.card import Card
 from main import Main
 
 class TestBlackjackGame:
