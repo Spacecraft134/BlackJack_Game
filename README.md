@@ -12,3 +12,7 @@ Among remaining players, the one with the hand closest to 21 wins.
 If all players bust or all have the same hand total, the game results in a tie.
 Face cards (Jacks, Queens, Kings) are valued at 10, and Aces can be worth either 1 or 11; for this program, Aces will consistently count as 11.
 
+More Rules if interested: https://bicyclecards.com/how-to-play/blackjack
+
+# Part 1: 
+
