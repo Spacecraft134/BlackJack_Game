@@ -39,11 +39,18 @@ For more detailed rules, visit: https://bicyclecards.com/how-to-play/blackjack
  - Navigate to the project directory.
  - Run python run_game.py to start playing.
 
+ OR
+ - Click on the green "Code" button near the top right corner of the repository page.
+ - Select "Download ZIP" from the dropdown menu.
+ - This will download a ZIP file containing all the files in the repository.
+ - Extract it and save it to your choice of editor
+ 
+
 # Part 7: Testing features
 - Comprehensive tests for individual components of the game.
 - Tests to ensure all parts work together seamlessly.
 
 # Installation:
- - Ensure you have Python installed on your system. Clone this repository and run the game using the instructions above.
+ - Ensure you have Python installed on your system. Clone this repository or download the zip file and run the game using the instructions above.
 
 
